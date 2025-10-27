@@ -33,21 +33,6 @@ Employee attrition is a major challenge for organizations, impacting costs, prod
 
 -----
 
-## Project Structure
-
-```
-├── notebooks/            # Jupyter notebooks for EDA, modeling, results
-├── resources/
-│   ├── data/
-│   │   ├── input/                # Raw data
-│   │   ├── output/               # Cleaned & prepared data
-│   ├── models/                   # Saved model pipelines 
-│       └── ... more models
-├── README.md             # Project documentation
-```
-
------
-
 ## Business Understanding
 
 High employee attrition can signal problems with company culture, compensation, career development, or management practices. By predicting attrition risk and uncovering its drivers, HR can take proactive steps to reduce turnover and retain valuable talent.
